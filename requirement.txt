@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+re 
+python 3.14.3
